@@ -60,11 +60,11 @@ Relying solely on 2D off-road free-space detection results is insufficient for a
 In off-road environments, GPS signals are often unreliable, preventing autonomous vehicles from obtaining accurate localization. To address this, we construct a rough GPS-guided path planning benchmark dataset. Specifically, we use the previously estimated poses as ground-truth driving trajectories and apply B-spline interpolation to generate waypoints. We then introduce controlled perturbations to these trajectories to simulate the effects of inaccurate GPS localization.
 
 <p align="center">
-<img src="doc/path1.jpg" width="80%"/>Rough GPS-guided Path Planning
+<img src="doc/path1.jpg" width="80%"/>
 </p>
 
 <p align="center">
-<img src="doc/path.jpg" width="80%"/>Rough GPS-guided Path Planning
+<img src="doc/path.jpg" width="80%"/>
 </p>
 
 ## VLM-based Autonomous Driving
