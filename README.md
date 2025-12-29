@@ -60,11 +60,11 @@ Relying solely on 2D off-road free-space detection results is insufficient for a
 In off-road environments, GPS signals are often unreliable, preventing autonomous vehicles from obtaining accurate localization. To address this, we construct a rough GPS-guided path planning benchmark dataset. Specifically, we use the previously estimated poses as ground-truth driving trajectories and apply B-spline interpolation to generate waypoints. We then introduce controlled perturbations to these trajectories to simulate the effects of inaccurate GPS localization.
 
 <p align="center">
-<img src="doc/path1.jpg" width="100%"/>Rough GPS-guided Path Planning
+<img src="doc/path1.jpg" width="80%"/>Rough GPS-guided Path Planning
 </p>
 
 <p align="center">
-<img src="doc/path.jpg" width="100%"/>Rough GPS-guided Path Planning
+<img src="doc/path.jpg" width="80%"/>Rough GPS-guided Path Planning
 </p>
 
 ## VLM-based Autonomous Driving
@@ -80,7 +80,7 @@ Recent advances in VLMs have demonstrated their ability to analyze complex scene
 In contrast to the abundance of large-scale datasets readily available for urban autonomous driving, research on off-road autonomous driving remains significantly constrained by the scarcity of suitable data. This paper seeks to address this critical limitation by investigating off-road scene data generation through the development of a world model capable of producing diverse and controllable off-road scenarios. Specifically, the proposed approach enables the synthesis of off-road data under extreme weather and illumination conditions, from multiple viewpoints, and across heterogeneous road environments, thereby substantially enhancing both the scale and diversity of off-road datasets.
 
 <p align="center">
-<img src="doc/wm2.jpg" width="100%"/>Off-road World Model
+<img src="doc/wm2.jpg" width="80%"/>
 </p>
 
 ##  License
