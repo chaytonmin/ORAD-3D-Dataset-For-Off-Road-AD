@@ -17,6 +17,7 @@ A major bottleneck in off-road autonomous driving research lies in the scarcity 
 
 ## 📰 News
 
+* **[2026.1.31]**  Our paper is accepted by ICRA 2026.
 * **[2025.12.31]**  Our dataset is publicly released on Baidu Cloud.
 * **[2025.10.18]**  Our paper is publicly released on Arxiv.
 
