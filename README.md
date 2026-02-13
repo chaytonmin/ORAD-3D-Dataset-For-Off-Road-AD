@@ -23,7 +23,7 @@ A major bottleneck in off-road autonomous driving research lies in the scarcity 
 
 ## Prepare data
 
-The proposed off-road autonomous driving dataset ORAD-3D can be found [BaiduYun](https://pan.baidu.com/s/1S0cviwlkN432LqCYdM2zsw?pwd=zp2e) (code:zp2e, about 350GB). Extract and organize as follows:
+The proposed off-road autonomous driving dataset ORAD-3D can be found [BaiduYun](https://pan.baidu.com/s/1S0cviwlkN432LqCYdM2zsw?pwd=zp2e) (code:zp2e, about 350GB) and [ModelScope](https://modelscope.cn/datasets/Georgehhhh/ORAD-3D). Extract and organize as follows:
 
 ```
 |-- datasets
